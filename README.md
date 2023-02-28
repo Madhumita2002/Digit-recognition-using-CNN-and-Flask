@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition-CNN-and-Flask
+# Handwritten-Digit-Recognition-using-CNN-and-Flask
 A Convolutional Neural Network model created using PyTorch library over the MNIST dataset to recognize handwritten digits . <br />
 
 The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset.
